@@ -1,5 +1,7 @@
 # Medicare Provider Fraud & Claims Analysis
 
+![Medicare Dashboard](Healthcare_Claims_Analysis.jpg)
+
 ## Project Overview
 This project focuses on identifying potential anomalies in healthcare billing practices. By analyzing Medicare inpatient claims and beneficiary data using SQLite, the objective was to pinpoint high-volume healthcare providers with unusually high average reimbursement claims.
 
